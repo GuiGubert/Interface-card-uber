@@ -2,4 +2,4 @@
 
 <p>Projeto da série #BoraCodar da Rocketseat desenvolvido apenas com HTML e CSS para exercitar alguns conceitos importantes, como FlexBox e sobreposição de itens!</p>
 
-Link do github pages: https://guigubert.github.io/Interface-card-uber/
+Link do github pages: <a href="https://guigubert.github.io/Interface-card-uber/" target="_blank">AQUI</a>
